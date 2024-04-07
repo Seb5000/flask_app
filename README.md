@@ -1,4 +1,11 @@
+# si se esta inciando por primera vez sino se tiene el database.db
+
+1. inicializar la base de datos
+   `python init_db.py`
+
+
 # Start the project
+
 
 1. Install a virtual environment
    `python -m venv .venv`
